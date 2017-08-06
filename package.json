@@ -18,6 +18,8 @@
   "homepage": "https://github.com/emersonjds/ambevstop#readme",
   "devDependencies": {
     "jquery": "^3.2.1",
-    "material-design-lite": "^1.3.0"
+    "material-icons": "^0.1.0",
+    "materialize-css": "^0.100.1",
+    "materialize-social": "^1.0.0"
   }
 }

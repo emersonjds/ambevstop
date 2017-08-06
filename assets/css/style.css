@@ -1,1 +1,14 @@
-@import "./source.css";
+html,body {
+  height: 100%;
+  width: 100%;
+  background-color: lightgray;
+}
+
+.main-container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
