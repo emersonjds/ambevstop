@@ -1,0 +1,22 @@
+{
+  "name": "ambevstop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emersonjds/ambevstop.git"
+  },
+  "author": "Emerson Jr",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/emersonjds/ambevstop/issues"
+  },
+  "homepage": "https://github.com/emersonjds/ambevstop#readme",
+  "devDependencies": {
+    "material-design-lite": "^1.3.0"
+  }
+}
