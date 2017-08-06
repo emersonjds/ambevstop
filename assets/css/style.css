@@ -1,5 +1,6 @@
 @import "./mercado.css";
 @import "./receita.css";
+@import "./preco.css";
 
 html,body {
   height: 100%;
